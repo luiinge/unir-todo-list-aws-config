@@ -1,4 +1,3 @@
-version = 0.1
 [staging]
 stack_name = "staging-todo-list-aws"
 s3_prefix = "staging-todo-list-aws"
